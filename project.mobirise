@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio ",
-    "currentPage": "privacy.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -16,7 +16,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 151,
+    "uniqCompNum": 155,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "true",
@@ -92,7 +92,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -173,15 +173,15 @@
     "template_project.html": {
       "settings": {
         "title": "template_project",
-        "order": 8,
+        "order": 9,
         "meta_descr": "(meta description)"
       },
       "components": [
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "showButtons": true,
             "sticky": true,
             "collapsed": true,
@@ -271,7 +271,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -290,129 +290,6 @@
         }
       ]
     },
-    "privacy.html": {
-      "settings": {
-        "title": "privacy",
-        "order": 7
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#fff",
-            "hamburgerColor": "#000000"
-          },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#gallery1-4\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header2-d\"></a></li>    <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\">&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"><br><br><br><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"><br><br><br><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\">&nbsp;&nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\">&nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"><br><br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\">&nbsp;<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-x\"></a></li>",
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "menu",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "20",
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_name": "ext.menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".navbar-nav .btn": {
-              "font-size": "14px"
-            },
-            ".nav-link": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "ext_menu-j"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9fac9a",
-            "overlay": true,
-            "overlayColor": "#fbfbfb",
-            "overlayOpacity": "0.7"
-          },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
-              "text-align": "center",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          },
-          "_anchor": "footer1-k"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9fac9a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Mobirise",
-          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Alle teksten en afbeeldingen op deze website zijn auteursrechtelijk beschermd en zijn intellectueel eigendom van Eline Hellemans. Wil je één of meer elementen uit de teksten overnemen, dan is dat slechts toegestaan onder de voorwaarde, dat je direct onder het artikel:<br><br> <br>1. vermeldt dat het artikel van AlphamegaHosting.com/SiteCoach komt,<br>2. vermeldt dat het artikel copyright 2018 van Elien Hellemans is,<br>3. een duidelijke en werkende link plaatst naar www.AlphamegaHosting.com/SiteCoach (de link mag geen affiliatecode bevatten).<br> <br>Voorbeeld:<br>Bron: www.AlphamegaHosting.com/SiteCoach - (C) 2013 - Alphamega Hosting B.V.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-46",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            }
-          }
-        }
-      ]
-    },
     "esplanade.html": {
       "settings": {
         "title": "Esplanade",
@@ -420,7 +297,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -436,7 +313,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -558,7 +435,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -574,7 +451,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -696,7 +573,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -712,7 +589,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -834,7 +711,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -850,7 +727,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -968,7 +845,7 @@
     "keuzemenu.html": {
       "settings": {
         "title": "keuzemenu",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -984,7 +861,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1100,7 +977,7 @@
     "contact.html": {
       "settings": {
         "title": "contact",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1116,7 +993,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1287,7 +1164,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1303,7 +1180,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1518,7 +1395,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1714,7 +1591,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2019,7 +1896,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2035,7 +1912,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2192,7 +2069,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2208,7 +2085,7 @@
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
           },
-          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2762,6 +2639,142 @@
           "_anchor": "msg-box4-3o",
           "_styles": {
             ".lead P": {
+              "font-size": "14px"
+            }
+          }
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "title": "privacy",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9fac9a",
+            "overlay": true,
+            "overlayColor": "#fbfbfb",
+            "overlayOpacity": "0.7"
+          },
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#dddddd",
+              "font-size": "12px",
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-48"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "13px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#483303",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#483303"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "name": "Roboto Condensed",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#483303"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-49"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9fac9a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mobirise",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Alle teksten en afbeeldingen op deze website zijn auteursrechtelijk beschermd en zijn intellectueel eigendom van Eline Hellemans. Wil je één of meer elementen uit de teksten overnemen, dan is dat slechts toegestaan onder de voorwaarde, dat je direct onder het artikel:<br><br><br>1. vermeldt dat het artikel van AlphamegaHosting.com/SiteCoach komt,<br>2. vermeldt dat het artikel copyright 2018 van Elien Hellemans is,<br>3. een duidelijke en werkende link plaatst naar www.AlphamegaHosting.com/SiteCoach (de link mag geen affiliatecode bevatten).<br><br>Voorbeeld:<br>Bron: www.AlphamegaHosting.com/SiteCoach - (C) 2013 - Alphamega Hosting B.V.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4a",
+          "_styles": {
+            "P": {
               "font-size": "14px"
             }
           }

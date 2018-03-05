@@ -393,7 +393,7 @@
 }
 #dropdown-menu-2d .nav .link,
 #dropdown-menu-2d .dropdown-item {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #483303;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -610,5 +610,5 @@
   color: #483303;
 }
 #header1-4a P {
-  font-size: 14px;
+  font-size: 13px;
 }

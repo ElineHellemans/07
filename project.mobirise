@@ -1,18 +1,19 @@
 {
   "settings": {
     "name": "Portfolio ",
-    "currentPage": "textiel.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
+        "#e0e9de",
+        "#a7b3a3",
+        "#afb9ac",
         "#95b443",
         "#b8bcc4",
         "#fff5b9",
-        "#0a351a",
-        "#483303",
-        "#9fac9a"
+        "#0a351a"
       ]
     },
     "versionFirst": "4.3.0",
@@ -87,7 +88,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -235,11 +236,11 @@
             "showButtons": true,
             "showArrow": false,
             "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-2.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
+            "bgColorRadio": true,
+            "bgColor": "#e0e9de",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -266,7 +267,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -308,7 +309,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -446,7 +447,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -584,7 +585,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -722,7 +723,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -856,7 +857,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -988,7 +989,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1175,7 +1176,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1586,7 +1587,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1619,7 +1620,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "0.8em",
               "color": "#483303",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
@@ -1907,7 +1908,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -2003,7 +2004,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2080,7 +2081,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -2663,7 +2664,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -2755,7 +2756,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#afb9ac",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2775,7 +2776,7 @@
           "_anchor": "header1-4a",
           "_styles": {
             "P": {
-              "font-size": "14px"
+              "font-size": "13px"
             }
           }
         }

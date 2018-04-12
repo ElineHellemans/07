@@ -1,23 +1,23 @@
 {
   "settings": {
     "name": "Portfolio ",
-    "currentPage": "index.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
+        "#f4c09e",
+        "#bec7bb",
         "#e0e9de",
         "#a7b3a3",
         "#afb9ac",
         "#95b443",
-        "#b8bcc4",
-        "#fff5b9",
-        "#0a351a"
+        "#b8bcc4"
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 155,
+    "uniqCompNum": 190,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "true",
@@ -54,7 +54,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#0a351a",
+            "overlayColor": "#e0e9de",
             "overlayOpacity": "0.1"
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br>&nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp;&nbsp;",
@@ -88,7 +88,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -102,8 +102,8 @@
           "_anchor": "footer1-i",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -116,24 +116,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -142,16 +142,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -162,7 +162,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -174,7 +174,7 @@
     "template_project.html": {
       "settings": {
         "title": "template_project",
-        "order": 9,
+        "order": 11,
         "meta_descr": "(meta description)"
       },
       "components": [
@@ -267,7 +267,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -280,8 +280,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -298,7 +298,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -309,7 +309,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -322,8 +322,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -337,24 +337,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#483303",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -363,16 +363,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -383,7 +383,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -436,7 +436,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -447,7 +447,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -460,8 +460,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -475,24 +475,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#483303",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -501,16 +501,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -521,7 +521,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -574,7 +574,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -585,7 +585,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -598,8 +598,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -613,24 +613,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#483303",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -639,16 +639,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -659,7 +659,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -712,7 +712,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -723,7 +723,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -736,8 +736,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -751,24 +751,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#483303",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -777,16 +777,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -797,7 +797,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -846,7 +846,7 @@
     "keuzemenu.html": {
       "settings": {
         "title": "keuzemenu",
-        "order": 7
+        "order": 10
       },
       "components": [
         {
@@ -857,7 +857,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -870,8 +870,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -885,24 +885,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -911,16 +911,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -931,7 +931,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -978,7 +978,7 @@
     "contact.html": {
       "settings": {
         "title": "contact",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -989,7 +989,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1002,8 +1002,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -1017,24 +1017,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#483303",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1043,16 +1043,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1063,7 +1063,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1137,7 +1137,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9fac9a",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1165,7 +1165,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -1176,7 +1176,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1189,8 +1189,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -1204,24 +1204,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1230,16 +1230,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1250,7 +1250,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1396,7 +1396,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -1417,7 +1417,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.1"
           },
           "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>architectuur",
           "text": "sleutelbegrippen: ruimtelijkheid,<br>duurzaamheid,<br>maatschappij,<br>structuur, kleur, licht<br><br>",
@@ -1485,7 +1485,7 @@
             }
           },
           "title": "Parkingang Middelheim Park",
-          "text": "<p>Op het kruispunt van twee belangrijke wegen plaatste ik een stalen constructie in de vorm van 4 asymetrische open boeken om voorbijgangers even te laten vertragen en in het moment te 'vangen' op dit mooie punt in het midden van het bos: een toegang naar de rijke beeldenwereld van het Middelheimpark.</p>",
+          "text": "<p>Op het kruispunt van twee belangrijke wegen plaatste ik een stalen constructie in de vorm van 4 asymetrische open boeken, als een omkadering op de weg, om voorbijgangers even te laten vertragen en in het moment te 'vangen' op dit mooie punt in het midden van het bos: een toegang naar de rijke beeldenwereld van het Middelheimpark.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1536,7 +1536,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/dsc-0044-4-2000x1335.jpg",
-              "link": "page13.html",
+              "link": "woning.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1587,7 +1587,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1600,8 +1600,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -1615,24 +1615,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1641,16 +1641,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1661,7 +1661,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1697,7 +1697,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/brussel-goede-test-2000x1414-800x565.jpg",
-              "link": "page16.html",
+              "link": "esplanade.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1769,7 +1769,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/foto-grote-maquette-2000x1333.jpg",
-              "link": "page15.html",
+              "link": "charleroi.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1841,7 +1841,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/boek-thesis-1999x1409.jpg",
-              "link": "page14.html",
+              "link": "thesis.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1897,7 +1897,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -1908,7 +1908,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -1921,8 +1921,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -1936,24 +1936,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1962,16 +1962,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1982,7 +1982,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1997,14 +1997,14 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "13",
+            "imageSize": "17",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2035,7 +2035,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "&nbsp;Eline Hellemans, 1993, Belg<div><br></div><div><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; Ik ben Eline. Ik studeerde eerst Burgerlijk-Ingenieur met de afstudeerrichting Architectuur aan KULeuven </div><div>en sinds september 2017 ben ik ook studente Textiel Ontwerp aan LUCA School of Arts te Gent.</div><div><br></div><div>De keuze voor beide richtingen komt vanuit de drang om op een tactiele en inzichtelijke manier sfeervolle ruimtes te willen creeren.</div><div>Het aftasten van de grenzen van de persoonlijke ruimte is hierbij heel belangrijk,</div><div><br></div><div>naast een onderzoek naar materialiteit, tactiliteit, textuur, kleur, licht, duurzaamheid,...</div><div><br></div><div><br></div>",
+          "text": "&nbsp;Eline Hellemans, 1993, Belg<div><br></div><div><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; Ik ben Eline. Ik studeerde eerst Burgerlijk-Ingenieur met de afstudeerrichting Architectuur aan KULeuven </div><div>en sinds september 2017 ben ik ook studente Textiel Ontwerp aan LUCA School of Arts te Gent.</div><div><br></div><div>De keuze voor beide richtingen komt vanuit de drang om op een tactiele en inzichtelijke manier sfeervolle ruimtes te willen creeren.</div><div>Het aftasten van de grenzen van persoonlijke ruimte is hierbij heel belangrijk, naast een onderzoek naar materialiteit, tactiliteit, textuur, kleur, licht, duurzaamheid,...</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2049,15 +2049,17 @@
               "font-size": "14px"
             },
             ".lead": {
-              "font-size": "16px",
+              "font-size": "14px",
               "text-align": "right",
               "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#bec7bb"
             },
             ".lead DIV": {
               "font-size": "14px",
               "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "color": "#000000"
             }
           }
         }
@@ -2081,7 +2083,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -2094,8 +2096,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
@@ -2109,24 +2111,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -2135,16 +2137,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2155,7 +2157,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2233,6 +2235,472 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/img-7374.jpg",
+              "link": "textiel1.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br><br>&nbsp;lengte, breedte en kruispunt",
+          "text": "<p>&nbsp;&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3t",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px",
+              "text-align": "right"
+            },
+            ".lead P": {
+              "font-size": "14px",
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "16",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kleur-mens-textiel.jpg",
+              "link": "textiel2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "kleur, mens en textiel",
+          "text": "<p>Kleur, Mens en Textiel</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4t",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "15",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p10-modulor.jpg",
+              "link": "textiel2b.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "patronen in menselijk gedrag&nbsp;",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4u",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "title": "privacy",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#fbfbfb",
+            "overlayOpacity": "0.7"
+          },
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"page13.html\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#bec7bb",
+              "font-size": "13px",
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-48"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f2f2f2"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#e8e8e8"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
+            "fontName": {
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "name": "Roboto Condensed",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-49"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mobirise",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Alle teksten en afbeeldingen op deze website zijn auteursrechtelijk beschermd en zijn intellectueel eigendom van Eline Hellemans. Wil je één of meer elementen uit de teksten overnemen, dan is dat slechts toegestaan onder de voorwaarde, dat je direct onder de tekst:<br><br><br>1. vermeldt dat het artikel/de afbeelding van &nbsp;elinehellemans.github.io komt,<br>2. vermeldt dat het artikel/afbeelding copyright 2018 van Eline Hellemans is,<br>3. een duidelijke en werkende link plaatst naar https://elinehellemans.github.io/07/index.html.<br><br>Voorbeeld:<br>Bron: https://elinehellemans.github.io/07/index.html&nbsp;- (C) 2018 - Eline Hellemans.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4a",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          }
+        }
+      ]
+    },
+    "textiel1.html": {
+      "settings": {
+        "title": "textiel opdracht 1",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#fbfbfb",
+            "overlayOpacity": "0.7"
+          },
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"page13.html\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#bec7bb",
+              "font-size": "13px",
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_anchor": "footer1-4b"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f2f2f2"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#e8e8e8"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
+            "fontName": {
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "name": "Roboto Condensed",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-4c"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Een ruimte van woorden",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4r",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "15",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-7374.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2249,8 +2717,8 @@
               "size": 0
             }
           },
-          "title": "&nbsp;lengte, breedte en kruispunt",
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Binnen de opdracht lengte breedte kruispunt heb ik 'het woord'als bouwsteen genomen voor het creeren &nbsp;van een vezel met flexibele lengte. Met woorden kan je niet enkel oneindig veel variaties in zinnen maken, het kan ook het woord zijn dat het geheel bijeen houdt (het kruispunt) zoals het werkje hier links. Het met de hand geborduurde woordje versterkt de wolvezels plaatstelijk en houdt ze goed vast. Het maakt de constructie. Ook ruimte is een constructie. Hiermee ben ik zodanig gaan spelen zodat terwijl het gekozen woord de ruimte omschrijft het ook de constructie (of de ruimte) bepaalt. &nbsp;&nbsp;</p>",
+          "title": "",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p> Binnen de opdracht 'Lengte, Breedte, Kruispunt' voor het ontwerpen van een vezel, heb ik 'het woord' als bouwsteen genomen voor het creeren &nbsp;van een vezel met flexibele lengte. Met woorden kan je niet enkel oneindig veel variaties in zinnen maken, het kan ook het woord zijn dat het geheel bijeen houdt (het kruispunt) zoals het werkje hier links. Het met de hand geborduurde woordje versterkt de wolvezels plaatstelijk en houdt ze goed vast. Het maakt de constructie. Ook ruimte is een constructie. Hiermee ben ik zodanig gaan spelen zodat, terwijl het gekozen woord de ruimte omschrijft, het ook de constructie (of de ruimte) bepaalt. &nbsp;&nbsp;</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2258,17 +2726,81 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3t",
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "18px",
+              "font-size": "14px",
               "text-align": "right"
             },
             ".lead P": {
               "font-size": "14px",
               "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box4-4e"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "21",
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1970-02-26-00.52.38.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br><br>&nbsp;een zelfportret",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "14px",
+              "text-align": "center"
             }
           }
         },
@@ -2326,14 +2858,14 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3i",
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "msg-box4-4f"
         },
         {
           "_inherit": "msg-box5",
@@ -2389,12 +2921,12 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3n",
           "_styles": {
             ".lead P": {
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "msg-box4-4g"
         },
         {
           "_inherit": "msg-box5",
@@ -2450,14 +2982,14 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3j",
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "msg-box4-4h"
         },
         {
           "_inherit": "msg-box5",
@@ -2504,7 +3036,7 @@
               "size": 0
             }
           },
-          "title": "The space of a sheet of paper",
+          "title": "The space of a sheet of paper...",
           "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -2513,14 +3045,14 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3k",
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "msg-box4-4i"
         },
         {
           "_inherit": "msg-box5",
@@ -2576,12 +3108,12 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3l",
           "_styles": {
             ".lead P": {
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "msg-box4-4j"
         },
         {
           "_inherit": "msg-box5",
@@ -2637,23 +3169,23 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3o",
           "_styles": {
             ".lead P": {
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "msg-box4-4k"
         }
       ]
     },
-    "page13.html": {
+    "textiel2.html": {
       "settings": {
-        "title": "privacy",
+        "title": "textiel opdracht 2",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -2664,7 +3196,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#fbfbfb",
             "overlayOpacity": "0.7"
@@ -2677,14 +3209,14 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#dddddd",
-              "font-size": "12px",
+              "color": "#bec7bb",
+              "font-size": "13px",
               "text-align": "center",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
-          "_anchor": "footer1-48"
+          "_anchor": "footer1-4v"
         },
         {
           "_styles": {
@@ -2692,24 +3224,24 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "0.8em",
-              "color": "#483303",
+              "font-size": "1em",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#483303"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -2718,16 +3250,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.8",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "name": "Roboto Condensed",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#483303"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 14px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2738,47 +3270,297 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-49"
+          "_anchor": "dropdown-menu-4w"
         },
         {
           "_params": {
-            "showTitle": false,
+            "showMeta": false
+          },
+          "title": "kleur, mens en textiel",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "18px"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header3-4x"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
+            "inverse": false,
+            "imageSize": "15",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#afb9ac",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "title": "Mobirise",
-          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Alle teksten en afbeeldingen op deze website zijn auteursrechtelijk beschermd en zijn intellectueel eigendom van Eline Hellemans. Wil je één of meer elementen uit de teksten overnemen, dan is dat slechts toegestaan onder de voorwaarde, dat je direct onder de tekst:<br><br><br>1. vermeldt dat het artikel/de afbeelding van &nbsp;elinehellemans.github.io komt,<br>2. vermeldt dat het artikel/afbeelding copyright 2018 van Eline Hellemans is,<br>3. een duidelijke en werkende link plaatst naar https://elinehellemans.github.io/07/index.html.<br><br>Voorbeeld:<br>Bron: https://elinehellemans.github.io/07/index.html&nbsp;- (C) 2018 - Eline Hellemans.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc05259-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>Hier wordt nog aan gewerkt...&nbsp;</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-4a",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "14px",
+              "text-align": "right"
+            },
+            ".lead P": {
+              "font-size": "14px",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box4-4y"
+        }
+      ]
+    },
+    "textiel2b.html": {
+      "settings": {
+        "title": "textiel opdracht 2b",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1970-01-01-11.33.25.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#fbfbfb",
+            "overlayOpacity": "0.7"
+          },
+          "text": "Copyright (c) 2018 Eline Hellemans. <a href=\"page13.html\" class=\"text-black\">Terms of Use</a>  | <a href=\"page13.html\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
           "_styles": {
             "P": {
-              "font-size": "13px"
+              "color": "#bec7bb",
+              "font-size": "13px",
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
-          }
+          },
+          "_anchor": "footer1-56"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "15px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f2f2f2"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#e8e8e8"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
+            "fontName": {
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "name": "Roboto Condensed",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-align-justify mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"me.html\">over</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"keuzemenu.html\">werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">eline hellemans &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ruimtelijk &nbsp;ontwerper&nbsp; &nbsp;&nbsp;<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-57"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Patronen in menselijk gedrag",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header3-58"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "15",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p10-modulor.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>Hier wordt nog aan gewerkt...&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "14px",
+              "text-align": "right"
+            },
+            ".lead P": {
+              "font-size": "14px",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box4-59"
         }
       ]
     }
